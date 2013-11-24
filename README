@@ -1,0 +1,1 @@
+I'm trying to make a matlab function that uses dcam directly, not via imaq toolbox, so that there should be (hopefully) no sporadic crash. If works, this will be combined with the WBA_control.m.
