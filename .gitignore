@@ -1,0 +1,8 @@
+*.asv
+*.m~
+*.txt~
+*.mat
+.DS_*
+*.cpp~
+*.mex*
+
